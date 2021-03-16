@@ -1,5 +1,9 @@
 theres a bunch of bash scripting there and a tiny bit of python here and thats basically my job
 
+BTC: bc1q69g5vkr99nyuc9ds3wv0qwzqxnzjeudfm6ltuj
+
+ETH: 0x59EbC253781182A797791E7DD6219C177Bca6Fe8
+
 heres the skills that i have that people typically care about and want to hear:
 
 - Linux System Administration (RHEL, CentOS, primarily Enterprise Linux, Ubuntu)
